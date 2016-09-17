@@ -120,13 +120,13 @@ desired effect
               <span class="label label-warning">10</span>
             </a>
             <ul class="dropdown-menu">
-              <li class="header">You have 10 notifications</li>
+              <li class="header">Tienes 10 notificaciones</li>
               <li>
                 <!-- Inner Menu: contains the notifications -->
                 <ul class="menu">
                   <li><!-- start notification -->
                     <a href="#">
-                      <i class="fa fa-users text-aqua"></i> 5 new members joined today
+                      <i class="fa fa-users text-aqua"></i> 5 personas quieren conocerte
                     </a>
                   </li>
                   <!-- end notification -->
@@ -140,10 +140,10 @@ desired effect
             <!-- Menu Toggle Button -->
             <a href="#" class="dropdown-toggle" data-toggle="dropdown">
               <i class="fa fa-flag-o"></i>
-              <span class="label label-danger">9</span>
+              <span class="label label-danger">2</span>
             </a>
             <ul class="dropdown-menu">
-              <li class="header">You have 9 tasks</li>
+              <li class="header">2 busquedas cerca de tu zona</li>
               <li>
                 <!-- Inner menu: contains the tasks -->
                 <ul class="menu">
@@ -151,23 +151,24 @@ desired effect
                     <a href="#">
                       <!-- Task title and progress text -->
                       <h3>
-                        Design some buttons
-                        <small class="pull-right">20%</small>
+                       2 busquedas nuevas
+                       <!-- <small class="pull-right">20%</small>-->
                       </h3>
-                      <!-- The progress bar -->
+                      <!-- The progress bar --><!--
                       <div class="progress xs">
-                        <!-- Change the css width attribute to simulate progress -->
+                        <!-- Change the css width attribute to simulate progress 
                         <div class="progress-bar progress-bar-aqua" style="width: 20%" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">
                           <span class="sr-only">20% Complete</span>
                         </div>
                       </div>
+                      -->
                     </a>
                   </li>
                   <!-- end task item -->
                 </ul>
               </li>
               <li class="footer">
-                <a href="#">View all tasks</a>
+                <a href="#">Ver todas las busquedas en tu ciudad</a>
               </li>
             </ul>
           </li>
@@ -186,7 +187,7 @@ desired effect
                 <img src="dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
 
                 <p>
-                  Alexander Pierce - Web Developer
+                  Alexander Pierce - buscaperro
                   <small>Member since Nov. 2012</small>
                 </p>
               </li>
