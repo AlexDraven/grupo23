@@ -24,6 +24,8 @@ scratch. This page gets rid of all links and provides the needed markup only.
   -->
   <link rel="stylesheet" href="dist/css/skins/skin-green.min.css">
 
+  <script type="text/javascript" src="js/jax.js"></script>
+
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
   <!--[if lt IE 9]>
@@ -212,7 +214,7 @@ desired effect
                   <a href="#" class="btn btn-default btn-flat">Profile</a>
                 </div>
                 <div class="pull-right">
-                  <a href="#" class="btn btn-default btn-flat">Sign out</a>
+                  <a href="#" class="btn btn-default btn-flat">Salir</a>
                 </div>
               </li>
             </ul>
@@ -246,7 +248,7 @@ desired effect
       <!-- search form (Optional) -->
       <form action="#" method="get" class="sidebar-form">
         <div class="input-group">
-          <input type="text" name="q" class="form-control" placeholder="Search...">
+          <input type="text" name="q" class="form-control" placeholder="Buscar...">
               <span class="input-group-btn">
                 <button type="submit" name="search" id="search-btn" class="btn btn-flat"><i class="fa fa-search"></i>
                 </button>
@@ -255,23 +257,27 @@ desired effect
       </form>
       <!-- /.search form -->
 
-      <!-- Sidebar Menu -->
+      <!-- Sidebar Menu -->                      <!-- El magico menu -->
       <ul class="sidebar-menu">
         <li class="header">HEADER</li>
         <!-- Optionally, you can add icons to the links -->
-        <li class="active"><a href="#"><i class="fa fa-link"></i> <span>Link</span></a></li>
-        <li><a href="#"><i class="fa fa-link"></i> <span>Another Link</span></a></li>
-        <li class="treeview">
-          <a href="#"><i class="fa fa-link"></i> <span>Multilevel</span>
+        <li class="active"><a href="#" onclick="contenido('perdida');" ><i class="fa fa-link"></i> <span>Publicar una perdida</span></a></li>
+
+         <li class="treeview">
+          <a href="#"><i class="fa fa-link"></i> <span>Mascotas Perdidas</span>
             <span class="pull-right-container">
               <i class="fa fa-angle-left pull-right"></i>
             </span>
           </a>
           <ul class="treeview-menu">
-            <li><a href="#">Link in level 2</a></li>
-            <li><a href="#">Link in level 2</a></li>
+            <li><a href="#" onclick="contenido('');">En mi zona</a></li>
+            <li><a href="#" onclick="contenido('');">En mi ciudad</a></li>
           </ul>
         </li>
+        <li><a href="#" onclick="contenido('');" ><i class="fa fa-link"></i> <span>¿Donde esta mi dueño?</span></a></li>
+        <li><a href="#" onclick="contenido('');" ><i class="fa fa-link"></i> <span>Veterinarias cercanas</span></a></li>
+        <li><a href="#" onclick="contenido('');" ><i class="fa fa-link"></i> <span>Transporte para mascotas</span></a></li>
+       
       </ul>
       <!-- /.sidebar-menu -->
     </section>
@@ -280,7 +286,7 @@ desired effect
 
   <!-- Content Wrapper. Contains page content -->
   <div class="content-wrapper">
-    <!-- Content Header (Page header) -->
+    <!-- Content Header (Page header) 
     <section class="content-header">
       <h1>
         Page Header
@@ -293,9 +299,10 @@ desired effect
     </section>
 
     <!-- Main content -->
-    <section class="content">
+    <section class="content" id= "contenedor">
 
-      <!-- Your Page Content Here -->
+      <!-- Your Page Content Here -->                  <!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
+      <strong>Lista de mascotas perdidas y publicidad a la derecha</strong>
 
     </section>
     <!-- /.content -->
@@ -306,10 +313,10 @@ desired effect
   <footer class="main-footer">
     <!-- To the right -->
     <div class="pull-right hidden-xs">
-      Anything you want
+     <!-- asdads -->
     </div>
     <!-- Default to the left -->
-    <strong>Copyright &copy; 2016 <a href="#">Company</a>.</strong> All rights reserved.
+    <strong>Copyright &copy; 2016 <a href="#">PetBro</a>.</strong> 
   </footer>
 
   <!-- Control Sidebar -->
