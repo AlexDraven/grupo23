@@ -1,0 +1,54 @@
+- PetBro -
+
+¿Que hacemos si perdemos una mascota?
+Salimos a pegar afiches, aveces mal hechos, una foto en blanco y negro, porque a color sale fortuna.
+Damos nuestro número de telefono y aveces hasta dan su direccion personal.
+
+Es algo que tenia sentido en los 90, pero ahora podemos mejorar ese proceso.
+Lo que proponemos con "PetBro" es una manera rápida de no tener que dar tus datos personales, dar a conocer la busqueda y hacerselo llegar a gente interesada en ayudarte.
+
+-Te logeas con facebook o con tu cuenta de google. (Los demas datos pueden completarse despues)
+-Llenas un formulario con los datos escenciales, su foto y la ubicación de donde se vio por ultima ves.
+-Ese formulario genera una versión para imprimir agregandole el link a la publicación en código QR.
+-Quien vea ese formulario puede ir directo a la publicación hacerte preguntas, dejarte un comentario o subir una foto si cree que vio a tu mascota.
+
+-Hasta ahora guardamos la privacidad de quien publica y le dimos un buen formato a los carteles de se busca.
+
+¿Y si cuando se pierde tu mascota le llega una notificación en su celular a toda la lista de usuarios en la zona en que desapareció?
+
+-Gente que no conoces, ahora sabe que tu mascota se perdió, pueden ayudarte a colocar e imprimir mas carteles, compartir en facebook o en cualquier red social. Todo cuando recién estas imprimiendo el cartel.
+
+- Las primeras horas son las mas importantes.
+
+¿ Como tener una gran base de usuarios para que sea efectivo?
+- Dando a conocer la aplicación/web como una guia de consulta donde podés ver las veterinarias/petshops mas cercanos, peluquerias caninas, veterinarios a domicilio, incluso conocer servicios de taxi u hoteles que admitan mascotas en base a tu ubicación actual o domicilio.
+	- ofreciendo direccion, horarios disponibles y si tienen, un link a su web institucional.
+
+-Todo funcionando en base a publicidad de estos servicios, incluso de marcas enfocadas a productos de mascotas.
+
+- Los primeros meses vamos a los locales relacionados, les llevamos folletos para sus clientes y un pequeño afiche para vidriera mientras le comentamos de la iniciativa y la posibilidad de colaborar.
+
+- No pretendemos tener ganancias pero si que sea un proyecto autosustentable.
+
+
+      -------- Otras de las posibilidades que nos permitiría este proyecto--------
+
+-Los usuarios puedan consultar que animales desaparecidos hay en su zona actual, verlos a través de google maps y consultar la publicación.
+
+-Si encontras una mascota sin su dueño tambien podes darlo a conocer con el mismo sistema.
+
+-Si necesitas que alguien te de una mano porque viste un animal herido o enfermo pero no podes llevarlo a tu casa o no podes darle la ayuda necesaria, tambien podes darlo a conocer en este sistema.
+
+-Si queres dar en adopción esos cachorros y darlo a conocer aca tambien podés.
+(te llega a tu mail o notificación si aclaraste en tu cuenta que buscas adoptar)
+
+- 
+
+----------
+
+Para que esto sea efectivo lo necesario es la web y una aplicación movil para asi poder llegar a la mayor cantidad de personas interesadas en ayudar y tambien facilitar el acceso a la guia de servicios para mascotas.
+
+
+La inversión inicial seria gracias al apoyo del gobierno local y empresas privadas interesadas en colaborar cuyo aporte sera devuelto en forma de publicidad en la plataforma. De la misma manera deberia costearse los gastos de mantenimiento.
+
+
