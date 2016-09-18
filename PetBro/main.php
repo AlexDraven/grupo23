@@ -261,23 +261,35 @@ desired effect
       <ul class="sidebar-menu">
         <li class="header">HEADER</li>
         <!-- Optionally, you can add icons to the links -->
-        <li class="active"><a href="#" onclick="contenido('perdida');" ><i class="fa fa-link"></i> <span>Publicar una perdida</span></a></li>
+        <li class="active"><a href="#" onclick="contenido('perdida');" ><span>Publicar una perdida</span></a></li>
 
          <li class="treeview">
-          <a href="#"><i class="fa fa-link"></i> <span>Mascotas Perdidas</span>
+          <a href="#"> </i> <span>Mascotas Perdidas</span>
             <span class="pull-right-container">
               <i class="fa fa-angle-left pull-right"></i>
             </span>
           </a>
           <ul class="treeview-menu">
-            <li><a href="#" onclick="contenido('');">En mi zona</a></li>
-            <li><a href="#" onclick="contenido('');">En mi ciudad</a></li>
+            <li><a href="#" onclick="contenido('gmaps');">En mi zona</a></li>
+            <li><a href="#" onclick="contenido('gmaps');">En mi ciudad</a></li>
           </ul>
         </li>
-        <li><a href="#" onclick="contenido('');" ><i class="fa fa-link"></i> <span>¿Donde esta mi dueño?</span></a></li>
-        <li><a href="#" onclick="contenido('');" ><i class="fa fa-link"></i> <span>Veterinarias cercanas</span></a></li>
-        <li><a href="#" onclick="contenido('');" ><i class="fa fa-link"></i> <span>Transporte para mascotas</span></a></li>
+        <li><a href="#" onclick="contenido('dondeduenio');" > <span>¿Donde esta mi dueño?</span></a></li>
+        <li><a href="#" onclick="contenido('veterinarias');" > <span>Veterinarias cercanas</span></a></li>
+        <li><a href="#" onclick="contenido('transporte');" > <span>Transporte para mascotas</span></a></li>
        
+       <!-- EDITAR PERFIL -->
+         <li class="treeview">
+          <li><a href="#"><!--i class="fa fa-link"></i --> <span>Editar Perfil</span><i class="fa fa-angle-left pull-right"></i></a>
+          <ul class="treeview-menu">
+              <li><a href="#">Cambiar foto</a></li>
+              <li><a href="#">Cambiar e-Mail</a></li>
+              <li><a href="#">Cambiar Informacion de contacto</a></li>
+              <li><a href="#">Cambiar archivo publico</a></li>
+              <li><a href="#">Cambiar Contraseña</a></li>
+          </ul>
+        </li>
+        <!-- FIN DE EFITAR PERFIL -->
       </ul>
       <!-- /.sidebar-menu -->
     </section>

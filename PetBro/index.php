@@ -27,14 +27,14 @@
 <body class="hold-transition login-page">
 <div class="login-box">
   <div class="login-logo">
-    <a href="../../index2.html"><b>PetBro</b></a>
+    <a href="#"><b>PetBro</b></a> <!-- deberia llevar a la main sin usuario -->
   </div>
   <!-- /.login-logo -->
   <!-- form login -->
   <div class="login-box-body">
     <p class="login-box-msg">Ingrese para iniciar su sesión</p>
 
-    <form action="../../index2.html" method="post">
+    <form action="main.php" method="post"> <!-- Sin verificacion, etc -->
       <div class="form-group has-feedback">
         <input type="email" class="form-control" placeholder="Email">
         <span class="glyphicon glyphicon-envelope form-control-feedback"></span>
